@@ -1,0 +1,26 @@
+.planeta {
+  animation-name: let;
+  animation-iteration-count: infinite;
+  animation-duration: 2s;
+}
+
+@keyframes let {
+  form {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  background-color: rgb(216, 216, 226);
+}
+.slm{
+    animation-name: let;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+}
+@keyframes let {
+    
+}
